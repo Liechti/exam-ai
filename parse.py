@@ -12,6 +12,7 @@
 #
 
 import re
+import csv
 from bs4 import BeautifulSoup
 
 def process_question(question, section_number):
@@ -96,3 +97,11 @@ def parse_test(test_file):
         questions = match_articles_to_questions(articles, questions)
 
     return questions
+
+def parse_answers(answer_file):
+    answers = []
+    with open(answer_file, 'r') as f:
+        reader = csv.reader(f, delimiter=' ')
+        for row in reader:
+            answers.append(row[1])
+    return answers
