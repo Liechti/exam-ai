@@ -1,0 +1,153 @@
+<S1>
+  <Q1>
+1. It rained so hard yesterday that the baseball game had to be until next Saturday.
+(A) surrendered (B) postponed (C) abandoned (D) opposed 
+  </Q1>
+  <Q2>
+2. As more people rely on the Internet for information, it has newspapers as the most important source of news.
+(A) distributed (B) subtracted (C) replaced (D) transferred 
+  </Q2>
+  <Q3>
+3. Having saved enough money, Joy two trips for this summer vacation, one to France and the other to Australia. 
+(A) booked (B) observed (C) enclosed (D) deposited
+  </Q3>
+  <Q4>
+4. Since I do not fully understand your proposal, I am not in the position to make any on it. 
+(A) difference (B) solution (C) demand (D) comment 
+  </Q4>
+  <Q5>
+5. Betty was to accept her friend’s suggestion because she thought she could come up with a better idea herself. 
+(A) tolerable (B) sensitive (C) reluctant (D) modest 
+  </Q5>
+  <Q6>
+6. The bank tries its best to attract more customers. Its staff members are always available to provide service. 
+(A) singular (B) prompt (C) expensive (D) probable 
+  </Q6>
+  <Q7>
+7. John’s part-time experience at the cafeteria is good for running his own restaurant. 
+(A) preparation (B) recognition (C) formation (D) calculation 
+  </Q7>
+  <Q8>
+8. Women’s fashions are changing: One season they may favor pantsuits, but the next season they may prefer miniskirts. 
+(A) lately (B) shortly (C) relatively (D) constantly 
+  </Q8>
+  <Q9>
+9. Standing on the seashore, we saw a of seagulls flying over the ocean before they glided down and settled on the water. 
+(A) pack (B) flock (C) herd (D) school 
+  </Q9>
+  <Q10>
+10. The book is not only informative but also , making me laugh and feel relaxed while reading it. 
+(A) understanding (B) infecting (C) entertaining (D) annoying 
+  </Q10>
+  <Q11>
+11. After working in front of my computer for the entire day, my neck and shoulders got so that I couldn’t even turn my head. 
+(A) dense (B) harsh (C) stiff (D) concrete 
+  </Q11>
+  <Q12>
+12. Getting a flu shot before the start of flu season gives our body a chance to build up protection against the that could make us sick. 
+(A) poison (B) misery (C) leak (D) virus 
+  </Q12>
+  <Q13>
+13. The kingdom began to after the death of its ruler, and was soon taken over by a neighboring country. 
+(A) collapse (B) dismiss (C) rebel (D) withdraw
+  </Q13>
+  <Q14>
+14. Though Kevin failed in last year’s singing contest, he did not feel . This year he practiced day and night and finally won first place in the competition. 
+(A) relieved (B) suspected (C) discounted (D) frustrated
+  </Q14>
+  <Q15> 
+15. Emma and Joe are looking for a live-in babysitter for their three-year-old twins, one who knows how to cook. 
+(A) initially (B) apparently (C) preferably (D) considerably
+b
+  </Q15>
+</S1>
+<S2>
+  <Q16-to-Q20>
+An area code is a section of a telephone number which generally represents the geographical area that the phone receiving the call is based in. It is the two or three digits just before the local number. If the number [16] is in the same area as the number making the call, an area code usually doesn’t need to be dialed. The local number, [17] , must always be dialed in its entirety. The area code was introduced in the United States in 1947. It was created [18] the format of XYX, with X being any number between 2-9 and Y being either 1 or 0. Cities and areas with higher populations would have a smaller first and third digit, and 1 as the center digit. New York, being the largest city in the United States, was [19] the 212 area code, followed by Los Angeles at 213. In countries other than the United States and Canada, the area code generally determines the [20] of a call. Calls within an area code and often a small group of neighboring area codes are normally charged at a lower rate than outside the area code. 
+  </Q16-to-Q20>
+  <Q16>
+16. (A) calling (B) being called (C) having called (D) has been calling 
+  </Q16>
+  <Q17>
+17. (A) in fact (B) to illustrate (C) at the same time (D) on the other hand 
+  </Q17>
+  <Q18>
+18. (A) for (B) as (C) by (D) in 
+  </Q18>
+  <Q19>
+19. (A) reserved (B) assigned (C) represented (D) assembled 
+  </Q19>
+  <Q20>
+20. (A) cost (B) format (C) quality (D) distance 
+  </Q20>
+  <Q21-to-Q25>
+For coin collectors who invest money in coins, the value of a coin is determined by various factors. First, scarcity is a major determinant. [21] a coin is, the more it is worth. Note, however, that rarity has little to do with the [22] of a coin. Many thousand-year-old coins often sell for no more than a few dollars because there are a lot of them around, [23] a 1913 Liberty Head Nickel may sell for over one million US dollars because there are only five in existence. Furthermore, the demand for a particular coin will also [24] influence coin values. Some coins may command higher prices because they are more popular with collectors. For example, a 1798 dime is much rarer than a 1916 dime, but the [25] sells for significantly more, simply because many more people collect early 20th century dimes than dimes from the 1700s. 
+  </Q21-to-Q25>
+  <Q21>
+21. (A) Rare as (B) The rare (C) Rarest (D) The rarer 
+  </Q21>
+  <Q22>
+22. (A) age (B) shape (C) size (D) weight 
+  </Q22>
+  <Q23>
+23. (A) since (B) while (C) whether (D) if 
+  </Q23>
+  <Q24>
+24. (A) merely (B) hardly (C) greatly (D) roughly 
+  </Q24>
+  <Q25>
+25. (A) older (B) better (C) latter (D) bigger 
+  </Q25>
+  <Q26-to-Q30>
+French psychologist Alfred Binet (1859-1911) took a different approach from most other psychologists of his day: He was interested in the workings of the [26] mind rather than the nature of mental illness. He wanted to find a way to measure the ability to think and reason, apart from education in any particular field. In 1905 he developed a test in which he [27] children do tasks such as follow commands, copy patterns, name objects, and put things in order or arrange them properly. He later created a standard of measuring children’s intelligence [28] the data he had collected from the French children he studied. If 70 percent of 8-year-olds could pass a particular test, then [29] on the test represented an 8-year-old’s level of intelligence. From Binet’s work, the phrase “intelligence quotient” (“IQ”) entered the English vocabulary. The IQ is the ratio of “mental age” to chronological age times 100, with 100 [30] the average. So, an 8-year-old who passes the 10-year-old’s test would have an IQ of 10/8 times 100, or 125. 
+  </Q26-to-Q30>
+  <Q26>
+26. (A) contrary (B) normal (C) detective (D) mutual 
+  </Q26>
+  <Q27>
+27. (A) had (B) kept (C) wanted (D) asked 
+  </Q27>
+  <Q28>
+28. (A) composed of (B) based on (C) resulting in (D) fighting against 
+  </Q28>
+  <Q29>
+29. (A) success (B) objection (C) agreement (D) discovery 
+  </Q29>
+  <Q30>
+30. (A) is (B) are (C) been (D) being 
+  </Q30>
+</S2>
+
+<S4>
+  <Q41-to-Q44>
+The Swiss army knife is a popular device that is recognized all over the world. In Switzerland, there is a saying that every good Swiss citizen has one in his or her pocket. But the knife had humble beginnings. In the late nineteenth century, the Swiss army issued its soldiers a gun that required a special screwdriver to dismantle and clean it. At the same time, canned food was becoming common in the army. Swiss generals decided to issue each soldier a standard knife to serve both as a screwdriver and a can opener. It was a lifesaver for Swiss knife makers, who were struggling to compete with cheaper German imports. In 1884, Carl Elsener, head of the Swiss knife manufacturer Victorinox, seized that opportunity with both hands, and designed a soldier’s knife that the army loved. It was a simple knife with one big blade, a can opener, and a screwdriver. A few years after the soldier’s knife was issued, the “Schweizer Offizier Messer,” or Swiss Officer’s Knife, came on the market. Interestingly, the Officer’s Knife was never given to those serving in the army. The Swiss military purchasers considered the new model with a corkscrew for opening wine not “essential for survival,” so officers had to buy this new model by themselves. But its special multi-functional design later launched the knife as a global brand. After the Second World War, a great number of American soldiers were stationed in Europe. And as they could buy the Swiss army knife at shops on military bases, they bought huge quantities of them. However, it seems that “Schweizer Offizier Messer” was too difficult for them to say, so they just called it the Swiss army knife, and that is the name it is now known by all over the world. 
+  </Q41-to-Q44>
+  <Q41>
+41. What is the main purpose of the passage? 
+(A) To explain the origin of the Swiss army knife. 
+(B) To introduce the functions of the Swiss army knife. 
+(C) To emphasize the importance of the Swiss army knife. 
+(D) To tell a story about the designer of the Swiss army knife. 
+  </Q41>
+  <Q42>
+42. What does “It” in the third paragraph refer to? 
+(A) The Swiss army needed a knife for every soldier. 
+(B) Every good Swiss citizen had a knife in his pocket. 
+(C) Swiss knives were competing with imported knives. 
+(D) Canned food was becoming popular in the Swiss army. 
+  </Q42>
+  <Q43>
+43. Why didn’t the Swiss army purchase the Swiss Officer’s Knife? 
+(A) The design of the knife was too simple. 
+(B) The knife was sold out to American soldiers. 
+(C) The army had no budget to make the purchase. 
+(D) The new design was not considered necessary for officers to own. 
+  </Q43>
+  <Q44>
+44. Who gave the name “the Swiss army knife” to the knife discussed in the passage?
+(A) Carl Elsener. 
+(B) Swiss generals. 
+(C) American soldiers. 
+(D) German businessmen.
+  </Q44>
+</S4>
