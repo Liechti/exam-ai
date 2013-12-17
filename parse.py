@@ -20,6 +20,14 @@ def process_question(question, section_number):
     find_b = re.compile("\(B\)\s*(.*?)[\(|\n]")
     find_c = re.compile("\(C\)\s*(.*?)[\(|\n]")
     find_d = re.compile("\(D\)\s*(.*?)[\(|\n]")
+    find_e = re.compile("\(E\)\s*(.*?)[\(|\n]")
+    find_f = re.compile("\(F\)\s*(.*?)[\(|\n]")
+    find_g = re.compile("\(G\)\s*(.*?)[\(|\n]")
+    find_h = re.compile("\(H\)\s*(.*?)[\(|\n]")
+    find_i = re.compile("\(I\)\s*(.*?)[\(|\n]")
+    find_j = re.compile("\(J\)\s*(.*?)[\(|\n]")
+
+
     
     text = find_question.findall(question.text.strip())
 
@@ -36,7 +44,15 @@ def process_question(question, section_number):
     d['b'] = find_b.findall(question.text)[0].strip()
     d['c'] = find_c.findall(question.text)[0].strip()
     d['d'] = find_d.findall(question.text)[0].strip()
-    
+
+    if d['section_number'] == 3:
+        d['e'] = find_e.findall(question.text)[0].strip()
+        d['f'] = find_f.findall(question.text)[0].strip()
+        d['g'] = find_g.findall(question.text)[0].strip()
+        d['h'] = find_h.findall(question.text)[0].strip()
+        d['i'] = find_i.findall(question.text)[0].strip()
+        d['j'] = find_j.findall(question.text)[0].strip()
+
     return d
 
 def match_articles_to_questions(articles, questions):

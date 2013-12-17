@@ -117,7 +117,51 @@ French psychologist Alfred Binet (1859-1911) took a different approach from most
 30. (A) is (B) are (C) been (D) being 
   </Q30>
 </S2>
-
+<S3>
+  <Q31-to-Q40>
+Often called “rainforests of the sea,” coral reefs provide a home for 25% of all species in the ocean. They are stony structures full of dark hideaways where fish and sea animals can lay their eggs and [31] from predators. Without these underwater “apartment houses,” there would be fewer fish in the ocean. Some species might even become [32] or disappear completely. There are thousands of reefs in the world; [33] , however, they are now in serious danger. More than one-third are in such bad shape that they could die within ten years. Many might not even [34] that long! Scientists are working hard to find out what leads to this destruction. There are still a lot of questions unanswered, but three main causes have been [35] . The first cause is pollution on land. The pollutants run with rainwater into rivers and streams, which [36] the poisons into the ocean. Chemicals from the poisons kill reefs or make them weak, so they have less [37] to diseases. Global warming is another reason. Higher ocean temperatures kill the important food source for the coral—the algae, the tiny greenish-gold water plants that live on coral. When the algae die, the coral loses its color and it also dies [38] . This process, known as “coral bleaching,” has happened more and more frequently in recent years. The last factor contributing to the [39] of coral reefs is people. People sometimes crash into reefs with their boats or drop anchors on them, breaking off large chunks of coral. Divers who walk on reefs can also do serious damage. Moreover, some people even break coral off to collect for [40] since it is so colorful and pretty. How can we help the reefs? We need to learn more about them and work together to stop the activities that may threaten their existence. 
+  </Q31-to-Q40>
+  <Q31>
+(A) resistance (B) identified (C) last (D) escape (E) sadly 
+(F) eventually (G) disappearance (H) souvenirs (I) endangered (J) carry
+  </Q31>
+  <Q32>
+(A) resistance (B) identified (C) last (D) escape (E) sadly 
+(F) eventually (G) disappearance (H) souvenirs (I) endangered (J) carry
+  </Q32>
+  <Q33>
+(A) resistance (B) identified (C) last (D) escape (E) sadly 
+(F) eventually (G) disappearance (H) souvenirs (I) endangered (J) carry
+  </Q33>
+  <Q34>
+(A) resistance (B) identified (C) last (D) escape (E) sadly 
+(F) eventually (G) disappearance (H) souvenirs (I) endangered (J) carry
+  </Q34>
+  <Q35>
+(A) resistance (B) identified (C) last (D) escape (E) sadly 
+(F) eventually (G) disappearance (H) souvenirs (I) endangered (J) carry
+  </Q35>
+  <Q36>
+(A) resistance (B) identified (C) last (D) escape (E) sadly 
+(F) eventually (G) disappearance (H) souvenirs (I) endangered (J) carry
+  </Q36>
+  <Q37>
+(A) resistance (B) identified (C) last (D) escape (E) sadly 
+(F) eventually (G) disappearance (H) souvenirs (I) endangered (J) carry
+  </Q37>
+  <Q38>
+(A) resistance (B) identified (C) last (D) escape (E) sadly 
+(F) eventually (G) disappearance (H) souvenirs (I) endangered (J) carry
+  </Q38>
+  <Q39>
+(A) resistance (B) identified (C) last (D) escape (E) sadly 
+(F) eventually (G) disappearance (H) souvenirs (I) endangered (J) carry
+  </Q39>
+  <Q40>
+(A) resistance (B) identified (C) last (D) escape (E) sadly 
+(F) eventually (G) disappearance (H) souvenirs (I) endangered (J) carry
+  </Q40>
+</S3>
 <S4>
   <Q41-to-Q44>
 The Swiss army knife is a popular device that is recognized all over the world. In Switzerland, there is a saying that every good Swiss citizen has one in his or her pocket. But the knife had humble beginnings. In the late nineteenth century, the Swiss army issued its soldiers a gun that required a special screwdriver to dismantle and clean it. At the same time, canned food was becoming common in the army. Swiss generals decided to issue each soldier a standard knife to serve both as a screwdriver and a can opener. It was a lifesaver for Swiss knife makers, who were struggling to compete with cheaper German imports. In 1884, Carl Elsener, head of the Swiss knife manufacturer Victorinox, seized that opportunity with both hands, and designed a soldier’s knife that the army loved. It was a simple knife with one big blade, a can opener, and a screwdriver. A few years after the soldier’s knife was issued, the “Schweizer Offizier Messer,” or Swiss Officer’s Knife, came on the market. Interestingly, the Officer’s Knife was never given to those serving in the army. The Swiss military purchasers considered the new model with a corkscrew for opening wine not “essential for survival,” so officers had to buy this new model by themselves. But its special multi-functional design later launched the knife as a global brand. After the Second World War, a great number of American soldiers were stationed in Europe. And as they could buy the Swiss army knife at shops on military bases, they bought huge quantities of them. However, it seems that “Schweizer Offizier Messer” was too difficult for them to say, so they just called it the Swiss army knife, and that is the name it is now known by all over the world. 
@@ -150,4 +194,92 @@ The Swiss army knife is a popular device that is recognized all over the world. 
 (C) American soldiers. 
 (D) German businessmen.
   </Q44>
+  <Q45-to-Q48>
+Space is where our future is—trips to the Moon, Mars and beyond. Most people would think that aside from comets and stars there is little else out there. But, since our space journey started we have left so much trash there that scientists are now concerned that if we don’t clean it up, we may all be in mortal danger. The first piece of space junk was created in 1964, when the American satellite Vanguard I stopped operating and lost its connection with the ground center. However, since it kept orbiting around the Earth without any consequences, scientists became increasingly comfortable abandoning things that no longer served any useful purpose in space. It is estimated that there are currently over 500,000 pieces of man-made trash orbiting the Earth at speeds of up to 17,500 miles per hour. The junk varies from tiny pieces of paint chipped off rockets to cameras, huge fuel tanks, and even odd items like the million-dollar tool kit that astronaut Heidemarie Stefanyshyn-Piper lost during a spacewalk. The major problem with the space trash is that it may hit working satellites and damage traveling spacecraft. Moreover, pieces of junk may collide with each other and break into fragments which fall back to the Earth. To avoid this, scientists have devised several ways for clearing the sky. Ground stations have been built to monitor larger pieces of space trash to prevent them from crashing into working satellites or space shuttles. Future plans include a cooperative effort among many nations to stop littering in space and to clean up the trash already there.
+  </Q45-to-Q48>
+  <Q45>
+45. What was the first piece of man-made space trash? 
+(A) A camera.
+(B) A tool kit. 
+(C) A fuel tank.
+(D) A broken satellite. 
+  </Q45>
+  <Q46>
+46. Why were scientists NOT concerned about space trash in the beginning? 
+(A) It no longer served any useful purpose. 
+(B) It was millions of miles away from the Earth. 
+(C) It did not cause any problems. 
+(D) It was regarded as similar to comets and stars. 
+  </Q46>
+  <Q47>
+47. Which of the following statements is true about space junk? 
+(A) It is huge, heavy machines. 
+(B) It never changes position. 
+(C) It floats slowly around the Earth. 
+(D) It may cause problems for space shuttles. 
+  </Q47>
+  <Q48>
+48. What has been done about the space trash problem? 
+(A) Scientists have cleaned up most of the trash. 
+(B) Large pieces of space trash are being closely watched. 
+(C) Many nations have worked together to stop polluting space. 
+(D) Ground stations are built to help store the trash properly in space
+  </Q48>
+  <Q49-to-Q52>
+An alcohol breath test (ABT) is often used by the police to find out whether a person is drunk while driving. In the United States, the legal blood alcohol limit is 0.08% for people aged 21 years or older, while people under 21 are not allowed to drive a car with any level of alcohol in their body. A “positive” test result, a result over the legal limit, allows the police to arrest the driver. However, many people who tested positive on the test have claimed that they only drank a “non-alcoholic” energy drink. Can one of these energy drinks really cause someone to test positive on an ABT? Researchers in Missouri set up an experiment to find out. First, the amount of alcohol in 27 different popular energy drinks was measured. All but one had an alcohol level greater than 0.005%. In nine of the 27 drinks, the alcohol level was at least 0.096%. The scientists then investigated the possibility that these small levels of alcohol could be detected by an ABT. They asked test subjects to drink a full can or bottle of an energy drink and then gave each subject an ABT one minute and 15 minutes after the drink was finished. For 11 of the 27 energy drinks, the ABT did detect the presence of alcohol if the test was given within one minute after the drink was taken. However, alcohol could not be detected for any of the drinks if the test was given 15 minutes after the drink was consumed. This shows that when the test is taken plays a crucial role in the test result. The sooner the test is conducted after the consumption of these drinks, the more likely a positive alcohol reading will be obtained. 
+  </Q49-to-Q52>
+  <Q49>
+49. For a person who just turned 20, what is the legal alcohol level allowed while driving in the US? 
+(A) 0.000%. (B) 0.005%. (C) 0.080%. (D) 0.096%. 
+  </Q49>
+  <Q50>
+50. What is the purpose of the Missouri experiment? 
+(A) To introduce a new method of calculating blood alcohol levels. 
+(B) To discover the relation between energy drinks and ABT test results. 
+(C) To warn about the dangers of drinking energy drinks mixed with alcohol. 
+(D) To challenge the current legal alcohol limit for drivers in the United States. 
+  </Q50>
+  <Q51>
+51. What were the participants of the experiment asked to do after they finished their energy drink? 
+(A) To line up in the laboratory. 
+(B) To recall the drink brands. 
+(C) To take an alcohol breath test. 
+(D) To check their breath for freshness. 
+  </Q51>
+  <Q52>
+52. What is the most important factor that affects the ABT test result for energy drink consumers? 
+(A) The age of the person who takes the test.
+(B) The place where the test is given. 
+(C) The equipment that the test uses.
+(D) The time when the test is taken. 
+  </Q52>
+  <Q53-to-Q56>
+The majority of Indian women wear a red dot between their eyebrows. While it is generally taken as an indicator of their marital status, the practice is primarily related to the Hindu religion. The dot goes by different names in different Hindi dialects, and “bindi” is the one that is most commonly known. Traditionally, the dot carries no gender restriction: Men as well as women wear it. However, the tradition of men wearing it has faded in recent times, so nowadays we see a lot more women than men wearing one. The position of the bindi is standard: center of the forehead, close to the eyebrows. It represents a third, or inner eye. Hindu tradition holds that all people have three eyes: The two outer ones are used for seeing the outside world, and the third one is there to focus inward toward God. As such, the dot signifies piety and serves as a constant reminder to keep God in the front of a believer’s thoughts. Red is the traditional color of the dot. It is said that in ancient times a man would place a drop of blood between his wife’s eyes to seal their marriage. According to Hindu beliefs, the color red is believed to bring good fortune to the married couple. Today, people go with different colors depending upon their preferences. Women often wear dots that match the color of their clothes. Decorative or sticker bindis come in all sizes, colors and variations, and can be worn by young and old, married and unmarried people alike. Wearing a bindi has become more of a fashion statement than a religious custom. 
+  </Q53-to-Q56>
+  <Q53>
+53. Why did people in India start wearing a red dot on their forehead? 
+(A) To indicate their social rank. (B) To show their religious belief. 
+(C) To display their financial status. (D) To highlight their family background. 
+  </Q53>
+  <Q54>
+54. What is the significance of the third eye in Hindu tradition? 
+(A) To stay in harmony with nature. 
+(B) To observe the outside world more clearly. 
+(C) To pay respect to God. 
+(D) To see things with a subjective view. 
+  </Q54>
+  <Q55>
+55. Why was red chosen as the original color of the bindi? 
+(A) The red dot represented the blood of God. 
+(B) Red stood for a wife’s love for her husband. 
+(C) The word “bindi” means “red” in some Hindi dialects. 
+(D) Red was supposed to bring blessings to a married couple. 
+  </Q55>
+  <Q56>
+56. Which of the following statements is true about the practice of wearing a bindi today? 
+(A) Bindis are worn anywhere on the face now. 
+(B) Bindis are now used as a decorative item. 
+(C) Most Indian women do not like to wear bindis anymore. 
+(D) Wearing a bindi has become more popular among Indian men. 
+  </Q56>
 </S4>
