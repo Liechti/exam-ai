@@ -12,7 +12,6 @@
 #
 
 import re
-import csv
 from bs4 import BeautifulSoup
 
 def process_question(question, section_number):
@@ -77,7 +76,6 @@ def parse_test(test_file):
         # Remove empty strings
         soup.contents = [x for x in soup.contents if len(x) > 1]
         sections = soup.contents
-        print "Number of sections:", len(sections)
 
         questions = []
         articles = []
@@ -98,10 +96,4 @@ def parse_test(test_file):
 
     return questions
 
-def parse_answers(answer_file):
-    answers = []
-    with open(answer_file, 'r') as f:
-        reader = csv.reader(f, delimiter=' ')
-        for row in reader:
-            answers.append(row[1])
-    return answers
+
