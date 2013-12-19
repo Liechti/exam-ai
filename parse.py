@@ -72,7 +72,7 @@ def match_articles_to_questions(articles, questions):
 def parse_test(test_file):
     with open(test_file,'r') as f:
         test = f.read()
-        soup = BeautifulSoup(test)
+        soup = BeautifulSoup(test, "html.parser")
         # Remove empty strings
         soup.contents = [x for x in soup.contents if len(x) > 1]
         sections = soup.contents
