@@ -2,7 +2,7 @@ import nltk
 from nltk import word_tokenize
 from nltk.corpus import wordnet as wn
 
-CATEGORY=5
+CATEGORY=7
 
 class Question:
 	def __init__(self,Question):
