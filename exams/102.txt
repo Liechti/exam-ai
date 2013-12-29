@@ -1,4 +1,4 @@
-<S1>
+﻿<S1>
   <Q1>
 1. It rained so hard yesterday that the baseball game had to be until next Saturday.
 (A) surrendered (B) postponed (C) abandoned (D) opposed 
@@ -174,21 +174,21 @@ The Swiss army knife is a popular device that is recognized all over the world. 
 (D) To tell a story about the designer of the Swiss army knife. 
   </Q41>
   <Q42>
-42. What does “It” in the third paragraph refer to? 
+42. What does "It" in the third paragraph refer to? 
 (A) The Swiss army needed a knife for every soldier. 
 (B) Every good Swiss citizen had a knife in his pocket. 
 (C) Swiss knives were competing with imported knives. 
 (D) Canned food was becoming popular in the Swiss army. 
   </Q42>
   <Q43>
-43. Why didn’t the Swiss army purchase the Swiss Officer’s Knife? 
+43. Why didn't the Swiss army purchase the Swiss Officer's Knife? 
 (A) The design of the knife was too simple. 
 (B) The knife was sold out to American soldiers. 
 (C) The army had no budget to make the purchase. 
 (D) The new design was not considered necessary for officers to own. 
   </Q43>
   <Q44>
-44. Who gave the name “the Swiss army knife” to the knife discussed in the passage?
+44. Who gave the name "the Swiss army knife" to the knife discussed in the passage?
 (A) Carl Elsener. 
 (B) Swiss generals. 
 (C) American soldiers. 
