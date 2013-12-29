@@ -3,6 +3,9 @@
 def get_section(questions, number):
     return [x for x in questions if x['section_number'] == number]
 
+def get_question(questions, number):
+    return questions[number-1]
+
 def classify(question, keywords):
     '''
     Example usage:
@@ -11,4 +14,7 @@ def classify(question, keywords):
     if any(keyword in question.lower() for keyword in keywords):
         return True
     return False
+
+
+ 
 
