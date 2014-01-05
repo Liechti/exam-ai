@@ -13,29 +13,31 @@ def main():
     section_three = get_section(questions, 3)
 
     # Uncomment to print all questions.
-    '''
+    
     for question in questions:
         print '--------------'
         for k,v in question.items():
             print k,':',v
-    '''
+    
     
     # Ngram search on section 1
     
     driverinit()
-    section_one = get_section(questions, 1)
-    #section_tmp = [question for question in questions if question['number'] <= 3]
-    answers = [ngram_analysis(question) for question in section_one]
+    #getcount('test')
+    #section_one = get_section(questions, 1)
+    section_tmp = [question for question in questions if 1 <= question['number'] <= 15 ]
+    answers = [ngram_analysis(question) for question in section_tmp]
+    print answers
     driverclose()
     
     # Example Grader
-        
+    
     #answers = ['B']*56
     answers.extend(['B']*41)
     nums = range(1, 57)
 
     grader = Grader("solutions/102ans.txt")
-
+    
     # Uncomment to see example grader.
     grader.grade_questions(nums, answers)
 
