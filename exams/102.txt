@@ -1,62 +1,62 @@
 ﻿<S1>
   <Q1>
-1. It rained so hard yesterday that the baseball game had to be until next Saturday.
+1. It rained so hard yesterday that the baseball game had to be [1] until next Saturday.
 (A) surrendered (B) postponed (C) abandoned (D) opposed 
   </Q1>
   <Q2>
-2. As more people rely on the Internet for information, it has newspapers as the most important source of news.
+2. As more people rely on the Internet for information, it has [2] newspapers as the most important source of news.
 (A) distributed (B) subtracted (C) replaced (D) transferred 
   </Q2>
   <Q3>
-3. Having saved enough money, Joy two trips for this summer vacation, one to France and the other to Australia. 
+3. Having saved enough money, Joy [3] two trips for this summer vacation, one to France and the other to Australia. 
 (A) booked (B) observed (C) enclosed (D) deposited
   </Q3>
   <Q4>
-4. Since I do not fully understand your proposal, I am not in the position to make any on it. 
+4. Since I do not fully understand your proposal, I am not in the position to make any [4] on it. 
 (A) difference (B) solution (C) demand (D) comment 
   </Q4>
   <Q5>
-5. Betty was to accept her friend’s suggestion because she thought she could come up with a better idea herself. 
+5. Betty was [5] to accept her friend’s suggestion because she thought she could come up with a better idea herself. 
 (A) tolerable (B) sensitive (C) reluctant (D) modest 
   </Q5>
   <Q6>
-6. The bank tries its best to attract more customers. Its staff members are always available to provide service. 
+6. The bank tries its best to attract more customers. Its staff members are always available to provide [6] service. 
 (A) singular (B) prompt (C) expensive (D) probable 
   </Q6>
   <Q7>
-7. John’s part-time experience at the cafeteria is good for running his own restaurant. 
+7. John’s part-time experience at the cafeteria is good [7] for running his own restaurant. 
 (A) preparation (B) recognition (C) formation (D) calculation 
   </Q7>
   <Q8>
-8. Women’s fashions are changing: One season they may favor pantsuits, but the next season they may prefer miniskirts. 
+8. Women’s fashions are [8] changing: One season they may favor pantsuits, but the next season they may prefer miniskirts. 
 (A) lately (B) shortly (C) relatively (D) constantly 
   </Q8>
   <Q9>
-9. Standing on the seashore, we saw a of seagulls flying over the ocean before they glided down and settled on the water. 
+9. Standing on the seashore, we saw a [9] of seagulls flying over the ocean before they glided down and settled on the water. 
 (A) pack (B) flock (C) herd (D) school 
   </Q9>
   <Q10>
-10. The book is not only informative but also , making me laugh and feel relaxed while reading it. 
+10. The book is not only informative but also [10], making me laugh and feel relaxed while reading it. 
 (A) understanding (B) infecting (C) entertaining (D) annoying 
   </Q10>
   <Q11>
-11. After working in front of my computer for the entire day, my neck and shoulders got so that I couldn’t even turn my head. 
+11. After working in front of my computer for the entire day, my neck and shoulders got so [11] that I couldn’t even turn my head. 
 (A) dense (B) harsh (C) stiff (D) concrete 
   </Q11>
   <Q12>
-12. Getting a flu shot before the start of flu season gives our body a chance to build up protection against the that could make us sick. 
+12. Getting a flu shot before the start of flu season gives our body a chance to build up protection against the [12] that could make us sick. 
 (A) poison (B) misery (C) leak (D) virus 
   </Q12>
   <Q13>
-13. The kingdom began to after the death of its ruler, and was soon taken over by a neighboring country. 
+13. The kingdom began to [13] after the death of its ruler, and was soon taken over by a neighboring country. 
 (A) collapse (B) dismiss (C) rebel (D) withdraw
   </Q13>
   <Q14>
-14. Though Kevin failed in last year’s singing contest, he did not feel . This year he practiced day and night and finally won first place in the competition. 
+14. Though Kevin failed in last year’s singing contest, he did not feel [14]. This year he practiced day and night and finally won first place in the competition. 
 (A) relieved (B) suspected (C) discounted (D) frustrated
   </Q14>
   <Q15> 
-15. Emma and Joe are looking for a live-in babysitter for their three-year-old twins, one who knows how to cook. 
+15. Emma and Joe are looking for a live-in babysitter for their three-year-old twins, [15] one who knows how to cook. 
 (A) initially (B) apparently (C) preferably (D) considerably
 b
   </Q15>
