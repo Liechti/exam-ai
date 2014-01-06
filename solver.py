@@ -19,7 +19,7 @@ def driverclose():
     
 def ngram_analysis(question):
     print 'Input str == '+question['question']+'\n'
-    ques_s = question['question'].strip().replace(',','').replace('.','').replace(':','').replace('?','').split(' ')
+    ques_s = question['question'].strip().replace(',','').replace('.','').replace(':','').replace('?','').replace('\u2014','').split(' ')
     blank_id = ques_s.index('['+str(question['number'])+']')
     length = len(ques_s)
     
@@ -119,3 +119,35 @@ def search_result(inputtext):
 def getvalue(resultString):
     ''' get result count from Google search '''
     return int(re.search(r'\d+', resultString.replace(',','')).group())
+
+''' Ngram end '''
+
+''' section 2 solver '''
+
+def sec2solver(question):
+    print 'Input str == '+question['article']+'\n'
+    ques_s = question['article'].strip().replace(',','').replace('.','').replace(':','').replace('?','').split(' ')
+    blank_id = ques_s.index('['+str(question['number'])+']')
+    length = len(ques_s)
+    
+    prob = {}
+    point = {}
+    
+    #log of resultStat (smooth by 10)
+    for i in 'a','b','c','d':
+        point[i] = 1
+        if blank_id > 0:
+            point[i] *= (10 + search_result(ques_s[blank_id-1]+' '+question[i]))
+        if blank_id < length-1:
+            point[i] *= (10 + search_result(question[i]+' '+ques_s[blank_id+1]))
+        if blank_id < length-2:
+            point[i] *= (10 + search_result(question[i]+' '+ques_s[blank_id+1]+' '+ques_s[blank_id+2])) 
+        if blank_id > 1:
+            point[i] *= (10 + search_result(ques_s[blank_id-2]+' '+ques_s[blank_id-1]+' '+question[i]))
+        if 0 < blank_id < length-1:
+            point[i] *= (10 + search_result(ques_s[blank_id-1]+' '+question[i]+' '+ques_s[blank_id+1]))
+            
+    print point
+    print 'Question '+str(question['number'])+' I guess '+max(point, key=point.get)+'\n'
+    time.sleep(15)
+    return max(point, key=point.get)
