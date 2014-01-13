@@ -1,0 +1,289 @@
+<S1>
+  <Q1>
+1. All the new students were given one minute to [1] introduce themselves to the whole class. 
+(A) briefly (B) famously (C) gradually (D) obviously
+  </Q1>
+  <Q2>
+2. His dark brown jacket had holes in the elbows and had [2] to light brown, but he continued to wear it.
+(A) cycled (B) faded (C) loosened (D) divided
+  </Q2>
+  <Q3>
+3. Everyone in our company enjoys working with Jason. He’s got all the qualities that make a [3] partner. 
+(A) desirable (B) comfortable (C) frequent (D) hostile 
+  </Q3>
+  <Q4>
+4. Eyes are sensitive to light. Looking at the sun [4] could damage our eyes. 
+(A) hardly (B) specially (C) totally (D) directly
+  </Q4>
+  <Q5>
+5. We were forced to [5] our plan for the weekend picnic because of the bad weather. 
+(A) maintain (B) record (C) propose (D) cancel
+  </Q5>
+  <Q6>
+6. Three people are running for mayor. All three [6] seem confident that they will be elected, but we won’t know until the outcome of the election is announced. 
+(A) particles (B) receivers (C) candidates (D) containers
+  </Q6>
+  <Q7>
+7. If you [7] a traffic law, such as drinking and driving, you may not drive for some time. 
+(A) destroy (B) violate (C) attack (D) invade
+  </Q7>
+  <Q8>
+8. Applying to college means sending in applications, writing study plans, and so on. It’s a long [8], and it makes students nervous. 
+(A) errand (B) operation (C) process (D) display
+  </Q8>
+  <Q9>
+9. Dr. Chu’s speech on the new energy source attracted great [9] from the audience at the conference. 
+(A) attention (B) fortune (C) solution (D) influence 
+  </Q9>
+  <Q10>
+10. Everyone in the office must attend the meeting tomorrow. There are no [10] allowed. 
+(A) exceptions (B) additions (C) divisions (D) measures
+  </Q10>
+  <Q11>
+11. To make fresh lemonade, cut the lemon in half, [11] the juice into a bowl, and then add as much water and sugar as you like. 
+(A) decrease (B) squeeze (C) freeze (D) cease
+  </Q11>
+  <Q12>
+12. Buddhism is the [12] religion in Thailand, with 90% of the total population identified as Buddhists. 
+(A) racial (B) competitive (C) modest (D) dominant
+  </Q12>
+  <Q13>
+13. When I open a book, I look first at the table [13] of to get a general idea of the book and to see which chapters I might be interested in reading. 
+(A) contracts (B) contents (C) contests (D) contacts 
+  </Q13>
+  <Q14>
+14. The children were so [14] to see the clown appear on stage that they laughed, screamed, and clapped their hands happily. 
+(A) admirable (B) fearful (C) delighted (D) intense
+  </Q14>
+  <Q15> 
+15. Typhoon Maggie brought to I-lan County a huge amount of rainfall, much greater than the [15] rainfall of the season in the area. 
+(A) average (B) considerate (C) promising (D) enjoyable
+  </Q15>
+</S1>
+<S2>
+  <Q16-to-Q20>
+When it comes to Egypt, people think of pyramids and mummies, both of which are closely related to Egyptian religious beliefs. The ancient Egyptians believed firmly in life [16] death. When a person died, his or her soul was thought to travel to an underworld, where it [17] a series of judgments before it could progress to a better life in the next world. For the soul to travel smoothly, the body had to [18] unharmed. Thus, they learned how to preserve the body by drying it out, oiling and then [19] the body in linen, before placing it in the coffin. Egyptians also built pyramids as [20] for their kings, or pharaohs. The pyramid housed the pharaoh’s body together with priceless treasure, which would accompany him into the next world.
+  </Q16-to-Q20>
+  <Q16>
+16. (A) for (B) by (C) after (D) into 
+  </Q16>
+  <Q17>
+17. (A) went through (B) made up (C) changed into (D) turned out
+  </Q17>
+  <Q18>
+18. (A) remain (B) remind (C) repair (D) replace 
+  </Q18>
+  <Q19>
+19. (A) wrapped (B) wrapping (C) to wrap (D) being wrapped 
+  </Q19>
+  <Q20>
+20. (A) galleries (B) landmarks (C) companies (D) tombs 
+  </Q20>
+  <Q21-to-Q25>
+On March 23, 1999, the musical MAMMA MIA! made its first public appearance in London. It [21] the kind of welcome it has been getting ever since. The audience went wild. They were literally out of their seats and singing and dancing in the aisles. MAMMA MIA! has become a [22] entertainment phenomenon. More than 30 million people all over the world have fallen in love with the characters, the story and the music. The musical has been performed in more than nine languages, with more productions than any [23] musical. Its worldwide popularity is mainly due to its theme music, which showcases ABBA’s timeless songs in a fresh and vital way [24] retains the essence of both pop music and good musical theater. It has 25 so many people that a film version was also made. To no one’s surprise, it has enjoyed similar popularity.
+  </Q21-to-Q25>
+  <Q21>
+21. (A) is given (B) was given (C) has given (D) had given 
+  </Q21>
+  <Q22>
+22. (A) worthy (B) global (C) sticky (D) physical 
+  </Q22>
+  <Q23>
+23. (A) one (B) thing (C) other (D) else 
+  </Q23>
+  <Q24>
+24. (A) how (B) what (C) where (D) that 
+  </Q24>
+  <Q25>
+25. (A) appealed to (B) presented with (C) resulted in (D) brought about 
+  </Q25>
+  <Q26-to-Q30>
+Which is more valuable? Water or diamonds? Water is more useful to mankind than diamonds, and yet [26] are costlier. Why? Called the diamond-water paradox, this is a classic problem posed to students of economics. The answer has to do with supply and demand. Being a rare natural resource, diamonds are [27] in supply. However, their demand is high because many people buy them to tell the world that they have money, [28] as conspicuous consumption in economics. In other words, the scarcity of goods is [29] causes humans to attribute value. If we [30] surrounded by an unending abundance of diamonds, we probably wouldn’t value them very much. Hence, diamonds carry a higher monetary value than water, even though we find more use for water.
+  </Q26-to-Q30>
+  <Q26>
+26. (A) the above (B) the former (C) the following (D) the latter 
+  </Q26>
+  <Q27>
+27. (A) traded (B) weakened (C) limited (D) noticed 
+  </Q27>
+  <Q28>
+28. (A) term (B) termed (C) terms (D) was termed 
+  </Q28>
+  <Q29>
+29. (A) what (B) which (C) why (D) how 
+  </Q29>
+  <Q30>
+30. (A) be (B) being (C) to be (D) were
+  </Q30>
+</S2>
+<S3>
+  <Q31-to-Q40>
+Popcorn is one of the snacks that rarely fail to make watching a movie more fun. However, the modern way of preparing this [31] snack may carry an unhappy secret. Research by the U.S. government now reports that microwave popcorn may contain substances that can cause health [32] . Researchers found that commercial popcorn companies often coat their microwave popcorn bags with a [33] called perfluorooctanoic acid (PFOA) which has been found to cause both cancer and lung disease in laboratory animals. Making matters worse, the artificial butter substitute that generally [34] with microwavable popcorn contains a common food-flavoring substance. This substance, according to health scientists, is [35] for some serious lung diseases. For an easy and [36] alternative, nutritionists suggest that we pop our own popcorn. All that is [37] is a large, high pot, about four tablespoons of vegetable oil and a small handful of organic popcorn kernels. When the kernels start [38] , shake the pot to let the steam escape and to let the unpopped kernels fall to the bottom. As soon as the popping slows down, [39] the pot from the stove. Then pour the popcorn into a bowl and season with a small [40] of real butter or olive oil and natural salt. And the healthy and fun snack is ready to serve. 
+  </Q31-to-Q40>
+  <Q31>
+(A) chemical (B) amount (C) popping (D) popular (E) comes 
+(F) healthy (G) needed (H) responsible (I) remove (J) problems 
+  </Q31>
+  <Q32>
+(A) chemical (B) amount (C) popping (D) popular (E) comes 
+(F) healthy (G) needed (H) responsible (I) remove (J) problems 
+  </Q32>
+  <Q33>
+(A) chemical (B) amount (C) popping (D) popular (E) comes 
+(F) healthy (G) needed (H) responsible (I) remove (J) problems 
+  </Q33>
+  <Q34>
+(A) chemical (B) amount (C) popping (D) popular (E) comes 
+(F) healthy (G) needed (H) responsible (I) remove (J) problems 
+  </Q34>
+  <Q35>
+(A) chemical (B) amount (C) popping (D) popular (E) comes 
+(F) healthy (G) needed (H) responsible (I) remove (J) problems 
+  </Q35>
+  <Q36>
+(A) chemical (B) amount (C) popping (D) popular (E) comes 
+(F) healthy (G) needed (H) responsible (I) remove (J) problems 
+  </Q36>
+  <Q37>
+(A) chemical (B) amount (C) popping (D) popular (E) comes 
+(F) healthy (G) needed (H) responsible (I) remove (J) problems 
+  </Q37>
+  <Q38>
+(A) chemical (B) amount (C) popping (D) popular (E) comes 
+(F) healthy (G) needed (H) responsible (I) remove (J) problems 
+  </Q38>
+  <Q39>
+(A) chemical (B) amount (C) popping (D) popular (E) comes 
+(F) healthy (G) needed (H) responsible (I) remove (J) problems 
+  </Q39>
+  <Q40>
+(A) chemical (B) amount (C) popping (D) popular (E) comes 
+(F) healthy (G) needed (H) responsible (I) remove (J) problems 
+  </Q40>
+</S3>
+<S4>
+  <Q41-to-Q44>
+There is a long-held belief that when meeting someone, the more eye contact we have with the person, the better. The result is an unfortunate tendency for people making initial contact- in a job interview, for example- to stare fixedly at the other individual. However, this behavior is likely to make the interviewer feel very uncomfortable. Most of us are comfortable with eye contact lasting a few seconds. But eye contact which persists longer than that can make us nervous. Another widely accepted belief is that powerful people in a society - often men - show their dominance over others by touching them in a variety of ways. In fact, research shows that in almost all cases, lower-status people initiate touch. Women also initiate touch more often than men do. The belief that rapid speech and lying go together is also widespread and enduring. We react strongly - and suspiciously - to fast talk. However, the opposite is a greater cause for suspicion. Speech that is slow, because it is laced with pauses or errors, is a more reliable indicator of lying than the opposite. 
+  </Q41-to-Q44>
+  <Q41>
+41. Which of the following statements is true according to the passage? 
+(A) Rapid speech without mistakes is a reliable sign of intelligence. 
+(B) Women often play a more dominant role than men in a community. 
+(C) Speaking slowly is more often a sign of lying than speaking quickly. 
+(D) Touching tends to be initiated first by people of higher social positions.
+  </Q41>
+  <Q42>
+42. What is true about fixing your eyes on a person when you first meet him/her? 
+(A) Fixing your eyes on the person will make him/her feel at ease. 
+(B) It is more polite to fix your eyes on him/her as long as you can. 
+(C) Most people feel uneasy to have eye contact for over a few seconds. 
+(D) It doesn’t make a difference whether you fix your eyes on him/her or not. 
+  </Q42>
+  <Q43>
+43. Which of the following is NOT discussed in the passage? 
+(A) Facial expressions. 
+(B) Physical contact. 
+(C) Rate of speech. 
+(D) Eye contact. 
+  </Q43>
+  <Q44>
+44. What is the main idea of the passage? 
+(A) People have an instinct for interpreting non-verbal communication. 
+(B) We should not judge the intention of a person by his body language. 
+(C) A good knowledge of body language is essential for successful communication. 
+(D) Common beliefs about verbal and non-verbal communication are not always correct. 
+  </Q44>
+  <Q45-to-Q48>
+It is easy for us to tell our friends from our enemies. But can other animals do the same? Elephants can! They can use their sense of vision and smell to tell the difference between people who pose a threat and those who do not. In Kenya, researchers found that elephants react differently to clothing worn by men of the Maasai and Kamba ethnic groups. Young Maasai men spear animals and thus pose a threat to elephants; Kamba men are mainly farmers and are not a danger to elephants. In an experiment conducted by animal scientists, elephants were first presented with clean clothing or clothing that had been worn for five days by either a Maasai or a Kamba man. When the elephants detected the smell of clothing worn by a Maasai man, they moved away from the smell faster and took longer to relax than when they detected the smells of either clothing worn by Kamba men or clothing that had not been worn at all. Garment color also plays a role, though in a different way. In the same study, when the elephants saw red clothing not worn before, they reacted angrily, as red is typically worn by Maasai men. Rather than running away as they did with the smell, the elephants acted aggressively toward the red clothing. The researchers believe that the elephants'  emotional reactions are due to their different interpretations of the smells and the sights. Smelling a potential danger means that a threat is nearby and the best thing to do is run away and hide. Seeing a potential threat without its smell means that risk is low. Therefore, instead of showing fear and running away, the elephants express their anger and become aggressive.
+  </Q45-to-Q48>
+  <Q45>
+45. According to the passage, which of the following statements is true about Kamba and Maasai people? 
+(A) Maasai people are a threat to elephants. 
+(B) Kamba people raise elephants for farming. 
+(C) Both Kamba and Maasai people are elephant hunters. 
+(D) Both Kamba and Maasai people traditionally wear red clothing. 
+  </Q45>
+  <Q46>
+46. How did the elephants react to smell in the study? 
+(A) They attacked a man with the smell of new clothing. 
+(B) They needed time to relax when smelling something unfamiliar. 
+(C) They became anxious when they smelled Kamba-scented clothing. 
+(D) They were frightened and ran away when they smelled their enemies.
+  </Q46>
+  <Q47>
+47. What is the main idea of this passage? 
+(A) Elephants use sight and smell to detect danger. 
+(B) Elephants attack people who wear red clothing. 
+(C) Scientists are now able to control elephants’ emotions. 
+(D) Some Kenyan tribes understand elephants’ emotions very well.
+  </Q47>
+  <Q48>
+48. What can be inferred about the elephant’s behavior from this passage? 
+(A) Elephants learn from their experiences. 
+(B) Elephants have sharper sense of smell than sight. 
+(C) Elephants are more intelligent than other animals. 
+(D) Elephants tend to attack rather than escape when in danger.
+  </Q48>
+  <Q49-to-Q52>
+It was something she had dreamed of since she was five. Finally, after years of training and intensive workouts, Deborah Duffey was going to compete in her first high school basketball game. The goals of becoming an outstanding player and playing college ball were never far from Deborah's mind. The game was against Mills High School. With 1:42 minutes left in the game, Deborah’s team led by one point. A player of Mills had possession of the ball, and Deborah ran to guard against her. As Deborah shuffled sideways to block the player, her knee went out and she collapsed on the court in burning pain. Just like that, Deborah’s season was over. After suffering the bad injury, Deborah found that, for the first time in her life, she was in a situation beyond her control. Game after game, she could do nothing but sit on the sidelines watching others play the game that she loved so much. Injuries limited Deborah's time on the court as she hurt her knees three more times in the next five years. She had to spend countless hours in a physical therapy clinic to receive treatment. Her frequent visits there gave her a passion and respect for the profession. And Deborah began to see a new light in her life. Currently a senior in college, Deborah focuses on pursuing a degree in physical therapy. After she graduates, Deborah plans to use her knowledge to educate people how to best take care of their bodies and cope with the feelings of hopelessness that she remembers so well.
+  </Q49-to-Q52>
+  <Q49>
+49. What is the best title for this passage? 
+(A) A Painful Mistake 
+(B) A Great Adventure 
+(C) A Lifelong Punishment 
+(D) A New Direction in Life 
+  </Q49>
+  <Q50>
+50. How did Deborah feel when she first hurt her knee? 
+(A) Excited. 
+(B) Confused. 
+(C) Ashamed. 
+(D) Disappointed. 
+  </Q50>
+  <Q51>
+51. What is true about Deborah Duffey? 
+(A) She didn’t play on the court after the initial injury. 
+(B) She injured her knee when she was trying to block her opponent. 
+(C) She knew that she couldn’t be a basketball player when she was a child. 
+(D) She refused to seek professional assistance to help her recover from her injuries. 
+  </Q51>
+  <Q52>
+52. What was the new light that Deborah saw in her life? 
+(A) To help people take care of their bodies. 
+(B) To become a teacher of Physical Education. 
+(C) To become an outstanding basketball player. 
+(D) To receive treatment in a physical therapy office. 
+  </Q52>
+  <Q53-to-Q56>
+Redwood trees are the tallest plants on the earth, reaching heights of up to 100 meters. They are also known for their longevity, typically 500 to 1000 years, but sometimes more than 2000 years. A hundred million years ago, in the age of dinosaurs, redwoods were common in the forests of a much more moist and tropical North America. As the climate became drier and colder, they retreated to a narrow strip along the Pacific coast of Northern California. The trunk of redwood trees is very stout and usually forms a single straight column. It is covered with a beautiful soft, spongy bark. This bark can be pretty thick, well over two feet in the more mature trees. It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness. This fire resistant quality explains why the giant redwood grows to live that long. While most other types of trees are destroyed by forest fires, the giant redwood actually prospers because of them. Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below. New trees are often produced from sprouts, little baby trees, which form at the base of the trunk. These sprouts grow slowly, nourished by the root system of the “mother” tree. When the main tree dies, the sprouts are then free to grow as full trees, forming a “fairy ring” of trees around the initial tree. These trees, in turn, may give rise to more sprouts, and the cycle continues.
+  </Q53-to-Q56>
+  <Q53>
+53. Why were redwood trees more prominent in the forests of North America millions of years ago? 
+(A) The trees were taller and stronger. 
+(B) The soil was softer for seeds to sprout. 
+(C) The climate was warmer and more humid. 
+(D) The temperature was lower along the Pacific coast. 
+  </Q53>
+  <Q54>
+54. What does a “fairy ring” in the last paragraph refer to? 
+(A) Circled tree trunks. 
+(B) Connected root systems. 
+(C) Insect holes around an old tree. 
+(D) Young trees surrounding a mature tree.
+  </Q54>
+  <Q55>
+55. Which of the following is a function of the tree bark as mentioned in the passage? 
+(A) It allows redwood trees to bear seeds. 
+(B) It prevents redwood trees from attack by insects. 
+(C) It helps redwood trees absorb moisture in the air. 
+(D) It makes redwood trees more beautiful and appealing. 
+  </Q55>
+  <Q56>
+56. Why do redwood trees grow to live that long according to the passage? 
+(A) They have heavy and straight tree trunks. 
+(B) They are properly watered and nourished. 
+(C) They are more resistant to fire damage than other trees. 
+(D) They produce many young trees to sustain their life cycle.
+  </Q56>
+</S4>
